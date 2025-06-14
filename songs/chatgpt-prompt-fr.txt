@@ -1,0 +1,1 @@
+Donne-moi une liste de 10 faits intéressants sur la chanson et le clip intitulés "Ash - There's A Star (Official Video)", sous forme de courtes puces d'une phrase (20 mots maximum chacune), en respectant le format JSON suivant: { artistName: string; songTitle: string; releaseYear: number; facts: string[] }
